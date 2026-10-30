@@ -1,10 +1,11 @@
 node_modules/
 dist/
 build-ssr/
+.prerender/
+.vercel/
 .env
 .env.*
 !.env.example
-server/.env
 .runtime/
 .data/
 *.log

@@ -1,0 +1,305 @@
+{
+  "page": {
+    "path": "/",
+    "title": "Company Registration in Delhi, Noida & Ghaziabad | Probay",
+    "description": "CA/CS-led company, LLP and OPC registration and ROC compliance in Delhi NCR. 100% online, itemised written quote, from ₹999 + govt. fees.",
+    "heading": "Company Registration in Delhi, Noida & Ghaziabad — done right, the first time.",
+    "intro": "From name approval to Certificate of Incorporation, PAN, TAN and bank account — our Chartered Accountants and Company Secretaries handle every MCA filing for you. Fully online. Fixed, written quote before you pay.",
+    "eyebrow": "CA & CS-led team for Delhi NCR businesses",
+    "checks": [
+      "Professional fee from ₹999 + govt. fees",
+      "Typically incorporated in 7–10 working days",
+      "Dedicated expert on call & WhatsApp",
+      "No hidden charges — ever"
+    ],
+    "price": "",
+    "priceNote": "",
+    "hasForm": true,
+    "service": "",
+    "city": "Noida",
+    "formHeading": "Talk to a Company Expert",
+    "formIntro": "Free 15-minute consultation. Get the right structure and an exact cost for your city.",
+    "facts": [],
+    "toc": [],
+    "breadcrumb": [],
+    "articleMeta": "",
+    "html": "",
+    "faqCount": 8
+  },
+  "sections": {
+    "compare": "\n<div class=\"section-head reveal\">\n<span class=\"eyebrow\">Compare Structures</span>\n<h2>Pvt Ltd vs LLP vs OPC vs Partnership</h2>\n<p>A quick side-by-side to help you choose the right business structure. For the full analysis, read <a href=\"/private-limited-vs-llp-vs-opc.html\">Pvt Ltd vs LLP vs OPC</a>.</p>\n</div>\n<div class=\"table-wrap reveal\">\n<table class=\"compare\">\n<thead>\n<tr><th scope=\"col\">Feature</th><th class=\"best\" scope=\"col\">Private Limited</th><th scope=\"col\">LLP</th><th scope=\"col\">One Person Company</th><th scope=\"col\">Partnership Firm</th></tr>\n</thead>\n<tbody>\n<tr><th scope=\"row\">Governing law</th><td class=\"best\">Companies Act, 2013</td><td>LLP Act, 2008</td><td>Companies Act, 2013</td><td>Indian Partnership Act, 1932</td></tr>\n<tr><th scope=\"row\">Minimum members</th><td class=\"best\">2 shareholders, 2 directors</td><td>2 designated partners</td><td>1 member + 1 nominee</td><td>2 partners</td></tr>\n<tr><th scope=\"row\">Maximum members</th><td class=\"best\">200</td><td>No limit</td><td>1</td><td>50</td></tr>\n<tr><th scope=\"row\">Separate legal entity</th><td class=\"best\"><span class=\"yes\">Yes</span></td><td><span class=\"yes\">Yes</span></td><td><span class=\"yes\">Yes</span></td><td><span class=\"no\">No</span></td></tr>\n<tr><th scope=\"row\">Owner liability</th><td class=\"best\">Limited</td><td>Limited</td><td>Limited</td><td>Unlimited</td></tr>\n<tr><th scope=\"row\">Equity fundraising</th><td class=\"best\">Easy — preferred by investors</td><td>Difficult</td><td>Not possible without conversion</td><td>Not possible</td></tr>\n<tr><th scope=\"row\">Annual compliance</th><td class=\"best\">Higher (audit mandatory)</td><td>Moderate (audit above thresholds)</td><td>Moderate (audit mandatory)</td><td>Low</td></tr>\n<tr><th scope=\"row\">Best suited for</th><td class=\"best\">Startups &amp; growth businesses</td><td>Professionals &amp; service firms</td><td>Solo founders</td><td>Small family businesses</td></tr>\n</tbody>\n</table>\n</div>\n",
+    "calendar": "\n<div class=\"section-head reveal\">\n<span class=\"eyebrow\">Compliance Calendar</span>\n<h2>Key ROC due dates every business owner should know</h2>\n<p>Missing an MCA deadline usually costs ₹100 per day, per form, with no upper cap. We track these for you.</p>\n</div>\n<div class=\"cal-grid\">\n<div class=\"cal-card reveal\"><div class=\"cal-date\"><b>May</b><span>30</span></div><div><span class=\"who\">LLP</span><h3>Form 11 — Annual Return</h3><p>Due within 60 days of the close of the financial year.</p></div></div>\n<div class=\"cal-card reveal\"><div class=\"cal-date\"><b>Jun</b><span>30</span></div><div><span class=\"who\">Company</span><h3>DPT-3 — Return of Deposits</h3><p>Annual return of deposits and outstanding loans as on 31 March.</p></div></div>\n<div class=\"cal-card reveal\"><div class=\"cal-date\"><b>Sep</b><span>30</span></div><div><span class=\"who\">Company</span><h3>Annual General Meeting</h3><p>AGM to be held within 6 months from the end of the financial year.</p></div></div>\n<div class=\"cal-card reveal\"><div class=\"cal-date\"><b>Oct</b><span>30</span></div><div><span class=\"who\">LLP</span><h3>Form 8 — Account &amp; Solvency</h3><p>Statement of Account and Solvency for the financial year.</p></div></div>\n<div class=\"cal-card reveal\"><div class=\"cal-date\"><b>AGM</b><span>+30</span></div><div><span class=\"who\">Company</span><h3>AOC-4 — Financial Statements</h3><p>Filed within 30 days of the Annual General Meeting.</p></div></div>\n<div class=\"cal-card reveal\"><div class=\"cal-date\"><b>AGM</b><span>+60</span></div><div><span class=\"who\">Company</span><h3>MGT-7 / MGT-7A — Annual Return</h3><p>Filed within 60 days of the Annual General Meeting.</p></div></div>\n</div>\n<p class=\"pricing-note reveal\">Due dates shown are the standard statutory timelines; MCA occasionally extends them by circular. We confirm the applicable date for your company each year.</p>\n"
+  },
+  "faqs": [
+    {
+      "question": "How long does company registration take in Delhi, Noida or Ghaziabad?",
+      "answer": "<p>A Private Limited Company is typically incorporated in 7–10 working days once all documents and Digital Signatures are ready. The timeline depends on name approval and processing by the MCA's Central Registration Centre, which handles incorporation for all states.</p>"
+    },
+    {
+      "question": "What is the total cost of registering a Private Limited Company?",
+      "answer": "<p>The total cost has four parts: our professional fee (from ₹999), Digital Signature Certificates for directors, MCA government fees, and state stamp duty. Stamp duty differs between Delhi and Uttar Pradesh and also depends on your authorised capital. We give you an exact, itemised written quote before you pay.</p>"
+    },
+    {
+      "question": "Can I use my home address as the registered office?",
+      "answer": "<p>Yes. A residential address can be used as the registered office. You will need a recent utility bill (electricity, gas, telephone or mobile — not older than 2 months) and a No Objection Certificate from the property owner. A rent agreement is also required if the premises are rented.</p>"
+    },
+    {
+      "question": "Do I need to visit your office or the ROC?",
+      "answer": "<p>No. The entire process is online. You share documents over WhatsApp or email, sign using your Digital Signature, and receive the Certificate of Incorporation by email. We are happy to meet in person in Delhi NCR if you prefer.</p>"
+    },
+    {
+      "question": "Which ROC has jurisdiction over Noida, Ghaziabad and Delhi?",
+      "answer": "<p>Companies with a registered office in Noida, Greater Noida or Ghaziabad fall under the Registrar of Companies, Kanpur (Uttar Pradesh). Companies registered in Delhi fall under the ROC, Delhi (NCT of Delhi &amp; Haryana). New incorporations are processed centrally by the Central Registration Centre.</p>"
+    },
+    {
+      "question": "Private Limited Company or LLP — which one should I choose?",
+      "answer": "<p>Choose a Private Limited Company if you plan to raise equity funding, issue ESOPs or scale quickly — investors strongly prefer it. Choose an LLP if you are a professional or service firm that wants limited liability with lower compliance and no mandatory audit below the prescribed turnover and contribution thresholds.</p>"
+    },
+    {
+      "question": "What compliances are required after incorporation?",
+      "answer": "<p>Key post-incorporation steps include opening a bank account, depositing subscription money, filing INC-20A (commencement of business) within 180 days, appointing the first auditor, holding board meetings and an AGM, and filing AOC-4 and MGT-7/7A every year along with income tax returns.</p>"
+    },
+    {
+      "question": "Do you serve clients outside Delhi NCR?",
+      "answer": "<p>Yes. Since MCA filings are fully online, we register companies and handle compliance for clients across India. Our on-ground focus and in-person support is for Delhi, Noida and Ghaziabad.</p>"
+    }
+  ],
+  "services": [
+    {
+      "title": "Private Limited Company Registration",
+      "description": "The preferred structure for startups and growing businesses. Limited liability, easy fundraising and high credibility.",
+      "href": "/private-limited-company-registration.html",
+      "price": "₹999 + govt. fees",
+      "badge": "Most popular"
+    },
+    {
+      "title": "LLP Registration",
+      "description": "Partnership flexibility with limited liability. Lower compliance burden — ideal for professionals and service firms.",
+      "href": "/llp-registration.html",
+      "price": "₹1,499 + govt. fees",
+      "badge": ""
+    },
+    {
+      "title": "One Person Company Registration",
+      "description": "Run your business solo with a separate legal identity and limited liability. One director, one shareholder, one nominee.",
+      "href": "/one-person-company-registration.html",
+      "price": "₹999 + govt. fees",
+      "badge": ""
+    },
+    {
+      "title": "Public Limited Company Registration",
+      "description": "For businesses planning to raise capital from the public. Minimum 3 directors and 7 shareholders.",
+      "href": "/public-limited-company-registration.html",
+      "price": "₹9,999 + govt. fees",
+      "badge": ""
+    },
+    {
+      "title": "Partnership Firm Registration",
+      "description": "Partnership deed drafting, PAN and registration with the Registrar of Firms in Delhi or Uttar Pradesh.",
+      "href": "/partnership-firm-registration.html",
+      "price": "₹1,999 + govt. fees",
+      "badge": ""
+    },
+    {
+      "title": "Company Annual Filing (AOC-4, MGT-7/7A)",
+      "description": "Financial statements and annual return filed with the ROC on time — avoid the ₹100-per-day late fee on each form.",
+      "href": "/company-annual-filing.html",
+      "price": "₹4,999 + govt. fees",
+      "badge": ""
+    },
+    {
+      "title": "LLP Annual Filing (Form 8, Form 11)",
+      "description": "Annual Return (Form 11) by 30 May and Statement of Account & Solvency (Form 8) by 30 October — filed without fail.",
+      "href": "/llp-annual-filing.html",
+      "price": "₹2,999 + govt. fees",
+      "badge": ""
+    },
+    {
+      "title": "Company ISIN Registration & Shares Dematerialization",
+      "description": "ISIN from NSDL/CDSL, RTA appointment and conversion of physical shares to demat — as required under Rule 9B.",
+      "href": "/isin-registration-shares-dematerialization.html",
+      "price": "₹14,999 + actuals",
+      "badge": ""
+    },
+    {
+      "title": "Company Strike Off",
+      "description": "Close a dormant or non-operating company cleanly through Form STK-2 and stop recurring compliance costs.",
+      "href": "/company-strike-off.html",
+      "price": "₹4,999 + govt. fees",
+      "badge": ""
+    },
+    {
+      "title": "Event Based Compliances",
+      "description": "Director change, registered office shift, increase in authorised capital, share allotment or transfer, name change and more.",
+      "href": "/event-based-compliances.html",
+      "price": "₹1,499 per event",
+      "badge": ""
+    }
+  ],
+  "steps": [
+    {
+      "title": "Free consultation",
+      "description": "We understand your business and recommend the right structure, capital and name options.",
+      "when": "Day 1"
+    },
+    {
+      "title": "Documents & DSC",
+      "description": "Share KYC and address proof on WhatsApp or email. We issue Digital Signatures for all directors.",
+      "when": "Day 1–3"
+    },
+    {
+      "title": "Name approval & filing",
+      "description": "We reserve your name and file SPICe+ with e-MoA, e-AoA and AGILE-PRO-S on the MCA portal.",
+      "when": "Day 3–7"
+    },
+    {
+      "title": "Certificate issued",
+      "description": "Receive your Certificate of Incorporation with CIN, PAN and TAN. We then help you open the bank account.",
+      "when": "Day 7–10*"
+    }
+  ],
+  "plans": [
+    {
+      "name": "Basic",
+      "description": "For founders who only need the company incorporated.",
+      "amount": "₹ 999",
+      "note": "+ govt. fees, DSC & stamp duty at actuals",
+      "items": [
+        "Company name reservation (2 name options)",
+        "DIN for 2 directors",
+        "MoA & AoA drafting",
+        "SPICe+ filing with MCA",
+        "Certificate of Incorporation",
+        "Company PAN & TAN"
+      ],
+      "featured": false
+    },
+    {
+      "name": "Standard",
+      "description": "Everything you need to incorporate and start operating.",
+      "amount": "₹ 3,999",
+      "note": "+ govt. fees & stamp duty at actuals",
+      "items": [
+        "Everything in Basic, plus:",
+        "2 Class-3 Digital Signatures (DSC) included",
+        "Current bank account opening assistance",
+        "INC-20A commencement of business filing",
+        "Share certificates & statutory registers",
+        "Dedicated relationship manager"
+      ],
+      "featured": true
+    },
+    {
+      "name": "Premium",
+      "description": "Incorporation plus first-year setup for a worry-free start.",
+      "amount": "₹ 9,999",
+      "note": "+ govt. fees & stamp duty at actuals",
+      "items": [
+        "Everything in Standard, plus:",
+        "GST registration",
+        "MSME (Udyam) registration",
+        "First auditor appointment (ADT-1)",
+        "First board meeting resolutions & minutes",
+        "Compliance calendar & CS support for 1 year"
+      ],
+      "featured": false
+    }
+  ],
+  "locations": [
+    {
+      "title": "Noida & Greater Noida",
+      "description": "IT, SaaS, manufacturing and export businesses across Noida's sectors and Greater Noida West.",
+      "roc": "ROC KANPUR · UTTAR PRADESH",
+      "areas": [
+        "Sector 62",
+        "Sector 63",
+        "Sector 18",
+        "Sector 135",
+        "Greater Noida"
+      ],
+      "href": "/company-registration-in-noida.html"
+    },
+    {
+      "title": "Ghaziabad",
+      "description": "Trading, manufacturing and service businesses in Ghaziabad's industrial and residential hubs.",
+      "roc": "ROC KANPUR · UTTAR PRADESH",
+      "areas": [
+        "Indirapuram",
+        "Vaishali",
+        "Kaushambi",
+        "Raj Nagar",
+        "Sahibabad"
+      ],
+      "href": "/company-registration-in-ghaziabad.html"
+    },
+    {
+      "title": "Delhi",
+      "description": "From Connaught Place consultancies to Okhla manufacturers — incorporation and compliance for every Delhi business.",
+      "roc": "ROC DELHI · NCT OF DELHI & HARYANA",
+      "areas": [
+        "Connaught Place",
+        "Nehru Place",
+        "Laxmi Nagar",
+        "Dwarka",
+        "Rohini"
+      ],
+      "href": "/company-registration-in-delhi.html"
+    }
+  ],
+  "guides": [
+    {
+      "title": "Private Limited vs LLP vs OPC",
+      "description": "Liability, funding, audit, tax and cost compared — with a six-question decision guide.",
+      "tag": "Choosing a structure",
+      "href": "/private-limited-vs-llp-vs-opc.html"
+    },
+    {
+      "title": "Company registration cost calculator",
+      "description": "Itemised, indicative cost for Delhi or Uttar Pradesh by capital, directors and plan.",
+      "tag": "Tool",
+      "href": "/cost-calculator.html"
+    },
+    {
+      "title": "ROC compliance calendar 2026",
+      "description": "Every MCA due date for companies and LLPs this year, month by month.",
+      "tag": "Due dates",
+      "href": "/roc-compliance-calendar.html"
+    },
+    {
+      "title": "Delhi vs Noida vs Ghaziabad",
+      "description": "ROC, stamp duty, GST and incentives compared — and why shifting state later is the expensive mistake.",
+      "tag": "Delhi NCR",
+      "href": "/delhi-vs-noida-where-to-register-company.html"
+    },
+    {
+      "title": "The first 180 days",
+      "description": "Bank account, auditor, share certificates, INC-20A — the deadlines new companies miss.",
+      "tag": "After incorporation",
+      "href": "/post-incorporation-compliances.html"
+    },
+    {
+      "title": "Browse all 12 guides",
+      "description": "Costs, documents, the SPICe+ process, annual compliance, Rule 9B demat, closing a company and more.",
+      "tag": "All guides",
+      "href": "/guides.html"
+    }
+  ],
+  "trust": [
+    {
+      "title": "CA & CS Experts",
+      "description": "Qualified professionals on every file"
+    },
+    {
+      "title": "Transparent Pricing",
+      "description": "Written quote, govt. fees at actuals"
+    },
+    {
+      "title": "100% Online Process",
+      "description": "Share documents on WhatsApp or email"
+    },
+    {
+      "title": "MCA-Compliant Filings",
+      "description": "As per Companies Act, 2013 & LLP Act, 2008"
+    }
+  ]
+}

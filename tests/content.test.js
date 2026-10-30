@@ -1,9 +1,9 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
-import {estimate} from '../client/src/calculator.js';
-const pages=JSON.parse(fs.readFileSync(new URL('../client/src/data/pages.json',import.meta.url)));
-const home=JSON.parse(fs.readFileSync(new URL('../client/src/data/home.json',import.meta.url)));
+import {estimate} from '../src/calculator.js';
+const pages=JSON.parse(fs.readFileSync(new URL('../src/data/pages.json',import.meta.url)));
+const home=JSON.parse(fs.readFileSync(new URL('../src/data/home.json',import.meta.url)));
 test('preserves all original pages, enquiry routes and FAQs',()=>{assert.equal(Object.keys(pages).length,45);assert.equal(Object.values(pages).reduce((n,p)=>n+p.faqCount,0),218);assert.equal(home.services.length,10);assert.equal(home.plans.length,3);for(const p of Object.values(pages)){assert.ok(p.heading);assert.ok(p.title);assert.ok(p.description);assert.equal(p.path,Object.keys(pages).find(k=>pages[k]===p))}});
 test('migrated editorial content contains no executable source or external form',()=>{for(const p of Object.values(pages)){assert.doesNotMatch(p.html,/<script|<iframe|\son\w+=|javascript:|<form/i)}});
 test('small-capital estimate matches published and live-verified quotes',()=>{assert.equal(estimate({entity:'pvt',state:'up',capital:100000,people:2,plan:'standard'}).total,6860);assert.equal(estimate({entity:'pvt',state:'delhi',capital:100000,people:2,plan:'standard'}).total,6210);assert.equal(estimate({entity:'llp',state:'delhi',capital:100000,people:2,plan:'standard'}).total,7190)});
