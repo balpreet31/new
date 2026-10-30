@@ -1,0 +1,4332 @@
+{
+  "fragment_issues": [
+    {
+      "page": "https://probay.in/guides.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/guides.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/guides.html",
+      "text": "Get Free Consultation",
+      "target": "https://probay.in/guides.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/guides.html",
+      "text": "Free Quote",
+      "target": "https://probay.in/guides.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/cost-calculator.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/cost-calculator.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/cost-calculator.html",
+      "text": "Get Written Quote",
+      "target": "https://probay.in/cost-calculator.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/cost-calculator.html",
+      "text": "Free Quote",
+      "target": "https://probay.in/cost-calculator.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/roc-compliance-calendar.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/roc-compliance-calendar.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/private-limited-vs-llp-vs-opc.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/private-limited-vs-llp-vs-opc.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/about.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/about.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/about.html",
+      "text": "Talk to Us",
+      "target": "https://probay.in/about.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/about.html",
+      "text": "Free Quote",
+      "target": "https://probay.in/about.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/delhi-vs-noida-where-to-register-company.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/delhi-vs-noida-where-to-register-company.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/post-incorporation-compliances.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/post-incorporation-compliances.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/privacy-policy.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/privacy-policy.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/privacy-policy.html",
+      "text": "Free Quote",
+      "target": "https://probay.in/privacy-policy.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/terms.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/terms.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/terms.html",
+      "text": "Free Quote",
+      "target": "https://probay.in/terms.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/refund-policy.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/refund-policy.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/refund-policy.html",
+      "text": "Free Quote",
+      "target": "https://probay.in/refund-policy.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/company-registration-cost-in-india.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/company-registration-cost-in-india.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/documents-required-for-company-registration.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/documents-required-for-company-registration.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/company-registration-process-step-by-step.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/company-registration-process-step-by-step.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/annual-compliance-checklist-private-limited-company.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/annual-compliance-checklist-private-limited-company.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/rule-9b-dematerialisation-private-companies.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/rule-9b-dematerialisation-private-companies.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/how-to-close-a-company-in-india.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/how-to-close-a-company-in-india.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/registered-office-address-rules.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/registered-office-address-rules.html#lead-form",
+      "issue": "missing fragment"
+    },
+    {
+      "page": "https://probay.in/director-disqualification-section-164.html",
+      "text": "Free Consultation",
+      "target": "https://probay.in/director-disqualification-section-164.html#lead-form",
+      "issue": "missing fragment"
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://probay.in/assets/css/style.css?v=2",
+      "status": 200,
+      "bytes": 44797,
+      "content_type": "text/css"
+    },
+    {
+      "url": "https://probay.in/assets/img/illus-city.svg",
+      "status": 200,
+      "bytes": 4340,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://probay.in/assets/img/illus-compliance.svg",
+      "status": 200,
+      "bytes": 4157,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://probay.in/assets/img/illus-corporate.svg",
+      "status": 200,
+      "bytes": 3523,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://probay.in/assets/img/illus-guide.svg",
+      "status": 200,
+      "bytes": 3521,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://probay.in/assets/img/illus-incorporation.svg",
+      "status": 200,
+      "bytes": 3721,
+      "content_type": "image/svg+xml"
+    },
+    {
+      "url": "https://probay.in/assets/img/logo-white.png",
+      "status": 200,
+      "bytes": 23335,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://probay.in/assets/img/logo.png",
+      "status": 200,
+      "bytes": 45048,
+      "content_type": "image/png"
+    },
+    {
+      "url": "https://probay.in/assets/js/calculator.js?v=2",
+      "status": 200,
+      "bytes": 7176,
+      "content_type": "application/javascript"
+    },
+    {
+      "url": "https://probay.in/assets/js/main.js?v=2",
+      "status": 200,
+      "bytes": 15193,
+      "content_type": "application/javascript"
+    }
+  ],
+  "forms": [
+    {
+      "page": "https://probay.in/",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/index.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/private-limited-company-registration.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Private Limited Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/llp-registration.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "LLP Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/one-person-company-registration.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "One Person Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/public-limited-company-registration.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Public Limited Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/partnership-firm-registration.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Partnership Firm Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-annual-filing.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Company Annual Filing",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/llp-annual-filing.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "LLP Annual Filing",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/event-based-compliances.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Event Based Compliances",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/isin-registration-shares-dematerialization.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "ISIN Registration & Shares Dematerialization",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-strike-off.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Company Strike Off",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-registration-in-noida.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-registration-in-ghaziabad.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-registration-in-delhi.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/contact.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/private-limited-company-registration-in-noida.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Private Limited Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/private-limited-company-registration-in-ghaziabad.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Private Limited Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/private-limited-company-registration-in-delhi.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Private Limited Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/llp-registration-in-noida.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "LLP Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/llp-registration-in-ghaziabad.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "LLP Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/llp-registration-in-delhi.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "LLP Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/one-person-company-registration-in-noida.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "One Person Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/one-person-company-registration-in-ghaziabad.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "One Person Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/one-person-company-registration-in-delhi.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "One Person Company Registration",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-annual-filing-in-noida.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Company Annual Filing",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-annual-filing-in-ghaziabad.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Company Annual Filing",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    },
+    {
+      "page": "https://probay.in/company-annual-filing-in-delhi.html",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "phone",
+          "type": "tel",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "city",
+          "type": null,
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": "service",
+          "type": "hidden",
+          "value": "Company Annual Filing",
+          "selected": []
+        },
+        {
+          "name": "plan",
+          "type": "hidden",
+          "value": "",
+          "selected": []
+        },
+        {
+          "name": "website",
+          "type": "text",
+          "value": null,
+          "selected": []
+        },
+        {
+          "name": null,
+          "type": "submit",
+          "value": null,
+          "selected": []
+        }
+      ]
+    }
+  ],
+  "classes": {
+    "btn": 447,
+    "container": 315,
+    "ico": 294,
+    "eyebrow": 288,
+    "nav-link": 230,
+    "faq-item": 226,
+    "answer": 226,
+    "mini-service": 190,
+    "topbar-item": 184,
+    "btn-primary": 182,
+    "tl-item": 178,
+    "btn-block": 165,
+    "reveal": 158,
+    "section": 104,
+    "fact": 100,
+    "field": 95,
+    "logo": 92,
+    "btn-outline": 92,
+    "dropdown": 91,
+    "btn-sm": 85,
+    "btn-accent": 72,
+    "btn-ghost": 72,
+    "best": 72,
+    "plan": 69,
+    "for": 69,
+    "amount": 69,
+    "plus": 69,
+    "bullets": 59,
+    "error": 56,
+    "doc-box": 52,
+    "more": 50,
+    "benefit": 50,
+    "skip-link": 46,
+    "topbar": 46,
+    "topbar-left": 46,
+    "topbar-right": 46,
+    "header": 46,
+    "nav-wrap": 46,
+    "nav": 46,
+    "mega": 46,
+    "header-cta": 46,
+    "header-phone": 46,
+    "nav-toggle": 46,
+    "hero": 46,
+    "hero-lead": 46,
+    "footer": 46,
+    "footer-grid": 46,
+    "footer-social": 46,
+    "footer-contact": 46,
+    "footer-bottom": 46,
+    "footer-ids": 46,
+    "disclaimer": 46,
+    "wa-float": 46,
+    "mobile-cta": 46,
+    "head": 45,
+    "page-hero": 44,
+    "breadcrumb": 44,
+    "prose": 44,
+    "hl": 43,
+    "mini-services": 43,
+    "cta-band": 42,
+    "cta-actions": 42,
+    "callout": 42,
+    "faq": 41,
+    "layout": 39,
+    "toc": 39,
+    "toc-cta": 39,
+    "hero-actions": 30,
+    "pill": 29,
+    "dot": 29,
+    "btn-wa": 29,
+    "timeline": 29,
+    "lead-card": 28,
+    "sr-only": 28,
+    "form-note": 28,
+    "form-success": 28,
+    "tick": 28,
+    "checks": 27,
+    "pricing-note": 27,
+    "docs": 26,
+    "hero-price": 25,
+    "facts": 25,
+    "with-illus": 25,
+    "guide-card": 24,
+    "guide-tag": 24,
+    "plans": 23,
+    "featured": 23,
+    "badge": 23,
+    "service-card": 22,
+    "table-wrap": 21,
+    "compare": 21,
+    "service-foot": 20,
+    "price": 20,
+    "article-hero": 18,
+    "hero-illus": 18,
+    "section-head": 16,
+    "chips": 15,
+    "light": 15,
+    "yes": 14,
+    "warn": 14,
+    "step": 12,
+    "step-num": 12,
+    "when": 12,
+    "cal-card": 12,
+    "cal-date": 12,
+    "who": 12,
+    "article-meta": 12,
+    "author-box": 12,
+    "benefits": 10,
+    "trust-item": 8,
+    "section-soft": 8,
+    "why-item": 8,
+    "field-row": 6,
+    "loc-card": 6,
+    "roc": 6,
+    "areas": 6,
+    "guide-grid": 5,
+    "prose-wide": 5,
+    "no": 4,
+    "steps": 3,
+    "numbered": 3,
+    "hero-meta": 2,
+    "trust": 2,
+    "services-grid": 2,
+    "tag": 2,
+    "cta-card": 2,
+    "span-2": 2,
+    "section-dark": 2,
+    "loc-grid": 2,
+    "why": 2,
+    "promise": 2,
+    "why-illus": 2,
+    "why-list": 2,
+    "cal-grid": 2,
+    "guide-grid-3": 2,
+    "calc": 1,
+    "calc-form": 1,
+    "calc-result": 1,
+    "calc-total": 1,
+    "calc-rows": 1,
+    "calc-note": 1,
+    "steps-inline": 1
+  },
+  "schemas": {
+    "https://probay.in/": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "@id": "https://probay.in/#business",
+        "name": "Probay",
+        "legalName": "PROBAY LIMITED",
+        "url": "https://probay.in/",
+        "description": "Company registration, LLP registration and ROC compliance services for businesses in Delhi, Noida and Ghaziabad.",
+        "telephone": "+918447452345",
+        "email": "hello@probay.in",
+        "taxID": "09AAQCP6154M1ZL",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "CIN",
+          "value": "U70200UP2026PLC241984"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "FF12, SPS Residency, Plot No. 18B, Vaibhav Khand",
+          "addressLocality": "Ghaziabad",
+          "addressRegion": "Uttar Pradesh",
+          "postalCode": "201014",
+          "addressCountry": "IN"
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+918447452345",
+            "contactType": "customer service",
+            "areaServed": "IN"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+917291812345",
+            "contactType": "customer service",
+            "areaServed": "IN"
+          }
+        ],
+        "sameAs": [
+          "https://www.youtube.com/@ProbayOfficial",
+          "https://www.instagram.com/probayofficial/",
+          "https://www.facebook.com/profile.php?id=61587058553264",
+          "https://www.linkedin.com/company/probayofficial",
+          "https://x.com/probayofficial",
+          "https://linktr.ee/ProbayOfficial"
+        ],
+        "logo": "https://probay.in/assets/img/logo.png",
+        "priceRange": "₹₹",
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Delhi"
+          },
+          {
+            "@type": "City",
+            "name": "Noida"
+          },
+          {
+            "@type": "City",
+            "name": "Ghaziabad"
+          }
+        ],
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:30",
+          "closes": "18:00"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Company formation and compliance services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Private Limited Company Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "LLP Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "One Person Company Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Public Limited Company Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Partnership Firm Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Company Annual Filing (AOC-4, MGT-7/7A)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "LLP Annual Filing (Form 8, Form 11)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "ISIN Registration and Shares Dematerialization"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Company Strike Off"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Event Based ROC Compliances"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "https://probay.in/index.html": [
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "@id": "https://probay.in/#business",
+        "name": "Probay",
+        "legalName": "PROBAY LIMITED",
+        "url": "https://probay.in/",
+        "description": "Company registration, LLP registration and ROC compliance services for businesses in Delhi, Noida and Ghaziabad.",
+        "telephone": "+918447452345",
+        "email": "hello@probay.in",
+        "taxID": "09AAQCP6154M1ZL",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "CIN",
+          "value": "U70200UP2026PLC241984"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "FF12, SPS Residency, Plot No. 18B, Vaibhav Khand",
+          "addressLocality": "Ghaziabad",
+          "addressRegion": "Uttar Pradesh",
+          "postalCode": "201014",
+          "addressCountry": "IN"
+        },
+        "contactPoint": [
+          {
+            "@type": "ContactPoint",
+            "telephone": "+918447452345",
+            "contactType": "customer service",
+            "areaServed": "IN"
+          },
+          {
+            "@type": "ContactPoint",
+            "telephone": "+917291812345",
+            "contactType": "customer service",
+            "areaServed": "IN"
+          }
+        ],
+        "sameAs": [
+          "https://www.youtube.com/@ProbayOfficial",
+          "https://www.instagram.com/probayofficial/",
+          "https://www.facebook.com/profile.php?id=61587058553264",
+          "https://www.linkedin.com/company/probayofficial",
+          "https://x.com/probayofficial",
+          "https://linktr.ee/ProbayOfficial"
+        ],
+        "logo": "https://probay.in/assets/img/logo.png",
+        "priceRange": "₹₹",
+        "areaServed": [
+          {
+            "@type": "City",
+            "name": "Delhi"
+          },
+          {
+            "@type": "City",
+            "name": "Noida"
+          },
+          {
+            "@type": "City",
+            "name": "Ghaziabad"
+          }
+        ],
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "opens": "09:30",
+          "closes": "18:00"
+        },
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Company formation and compliance services",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Private Limited Company Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "LLP Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "One Person Company Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Public Limited Company Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Partnership Firm Registration"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Company Annual Filing (AOC-4, MGT-7/7A)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "LLP Annual Filing (Form 8, Form 11)"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "ISIN Registration and Shares Dematerialization"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Company Strike Off"
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Event Based ROC Compliances"
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "https://probay.in/private-limited-company-registration.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Private Limited Company Registration",
+            "serviceType": "Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "End-to-end Private Limited Company incorporation including DSC, DIN, name reservation, SPICe+ filing, MoA, AoA, PAN and TAN.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees, DSC and stamp duty at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Private Limited Company Registration",
+                "item": "https://probay.in/private-limited-company-registration.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/llp-registration.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "LLP Registration",
+            "serviceType": "Limited Liability Partnership incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "Register an LLP online in Delhi NCR: RUN-LLP, FiLLiP, DPIN, LLP Agreement and Form 3 by CA/CS experts. From ₹1,499 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1499",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "LLP Registration",
+                "item": "https://probay.in/llp-registration.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/one-person-company-registration.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "One Person Company Registration",
+            "serviceType": "One Person Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "Register an OPC online in Delhi, Noida or Ghaziabad. Single owner, limited liability, nominee filing, PAN & TAN. From ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "One Person Company Registration",
+                "item": "https://probay.in/one-person-company-registration.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/public-limited-company-registration.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Public Limited Company Registration",
+            "serviceType": "Public Limited Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "Incorporate a Public Limited Company in Delhi NCR: 3 directors, 7 shareholders, SPICe+, MoA/AoA and ISIN guidance by a CS. From ₹9,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "9999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Public Limited Company Registration",
+                "item": "https://probay.in/public-limited-company-registration.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/partnership-firm-registration.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Partnership Firm Registration",
+            "serviceType": "Partnership firm registration",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "Partnership deed drafting, PAN and Registrar of Firms registration in Delhi or Uttar Pradesh. Correct stamp duty, fast turnaround. From ₹1,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Partnership Firm Registration",
+                "item": "https://probay.in/partnership-firm-registration.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-annual-filing.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Annual Filing",
+            "serviceType": "ROC annual compliance for companies",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "ROC annual filing for Pvt Ltd and OPC companies in Delhi NCR: AOC-4, MGT-7/7A, ADT-1, DPT-3, DIR-3 KYC on time. Backlog cleared. From ₹4,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "4999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Annual Filing",
+                "item": "https://probay.in/company-annual-filing.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/llp-annual-filing.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "LLP Annual Filing",
+            "serviceType": "ROC annual compliance for LLPs",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "LLP annual compliance in Delhi NCR: Form 11 by 30 May, Form 8 by 30 October, ITR-5 and DIR-3 KYC filed by CA/CS experts. From ₹2,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "2999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "LLP Annual Filing",
+                "item": "https://probay.in/llp-annual-filing.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/event-based-compliances.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Event Based Compliances",
+            "serviceType": "Event based ROC compliance",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "Director change (DIR-12), office shift (INC-22), capital increase (SH-7), allotment (PAS-3), name change and more. Fixed fee from ₹1,499 per event.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1499",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Event Based Compliances",
+                "item": "https://probay.in/event-based-compliances.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/isin-registration-shares-dematerialization.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "ISIN Registration & Shares Dematerialization",
+            "serviceType": "ISIN allotment and dematerialisation of securities",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "ISIN from NSDL/CDSL and demat of shares for private and unlisted public companies under Rule 9A/9B: RTA, tripartite agreement, PAS-6. From ₹14,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "14999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "ISIN Registration & Shares Dematerialization",
+                "item": "https://probay.in/isin-registration-shares-dematerialization.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-strike-off.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Strike Off",
+            "serviceType": "Voluntary strike off of a company",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi"
+              },
+              {
+                "@type": "City",
+                "name": "Noida"
+              },
+              {
+                "@type": "City",
+                "name": "Ghaziabad"
+              }
+            ],
+            "description": "Close a dormant company through Form STK-2: eligibility check, affidavits, indemnity bond, statement of accounts, filing. From ₹4,999 + govt. fee.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "4999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Services",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Strike Off",
+                "item": "https://probay.in/company-strike-off.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-registration-in-noida.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Registration in Noida",
+            "serviceType": "Company incorporation and ROC compliance",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Noida",
+                "containedInPlace": {
+                  "@type": "State",
+                  "name": "Uttar Pradesh"
+                }
+              },
+              {
+                "@type": "City",
+                "name": "Greater Noida",
+                "containedInPlace": {
+                  "@type": "State",
+                  "name": "Uttar Pradesh"
+                }
+              }
+            ],
+            "description": "Company registration in Noida & Greater Noida by CA/CS experts. ROC Kanpur, UP stamp duty, home address accepted. 100% online, from ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Locations",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Registration in Noida",
+                "item": "https://probay.in/company-registration-in-noida.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-registration-in-ghaziabad.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Registration in Ghaziabad",
+            "serviceType": "Company incorporation and ROC compliance",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Ghaziabad",
+                "containedInPlace": {
+                  "@type": "State",
+                  "name": "Uttar Pradesh"
+                }
+              }
+            ],
+            "description": "Company registration in Ghaziabad: Indirapuram, Vaishali, Raj Nagar, Sahibabad. ROC Kanpur, UP stamp duty, CA/CS-led. From ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Locations",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Registration in Ghaziabad",
+                "item": "https://probay.in/company-registration-in-ghaziabad.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-registration-in-delhi.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Registration in Delhi",
+            "serviceType": "Company incorporation and ROC compliance",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": [
+              {
+                "@type": "City",
+                "name": "Delhi",
+                "containedInPlace": {
+                  "@type": "State",
+                  "name": "Delhi"
+                }
+              },
+              {
+                "@type": "City",
+                "name": "New Delhi",
+                "containedInPlace": {
+                  "@type": "State",
+                  "name": "Delhi"
+                }
+              }
+            ],
+            "description": "Company registration in Delhi by CA/CS experts: ROC Delhi, Delhi stamp duty explained, any Delhi address accepted. Online, from ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Locations",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Registration in Delhi",
+                "item": "https://probay.in/company-registration-in-delhi.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/guides.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "name": "Guides for founders and company owners",
+            "description": "Plain-English guides by CA/CS professionals: choosing a structure, costs, documents, SPICe+, annual compliance, ROC due dates, demat, closing a company.",
+            "url": "https://probay.in/guides.html",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/cost-calculator.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "name": "Company registration cost calculator",
+            "description": "Free calculator: indicative cost of a Pvt Ltd, OPC or LLP in Delhi or Uttar Pradesh, with government fees, stamp duty, DSC, PAN/TAN and professional fee.",
+            "url": "https://probay.in/cost-calculator.html",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Cost calculator",
+                "item": "https://probay.in/cost-calculator.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/roc-compliance-calendar.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "ROC compliance calendar 2026: every MCA due date",
+            "description": "Month-by-month MCA due dates in 2026 for companies and LLPs: Form 11, DPT-3, DIR-3 KYC, AGM, AOC-4, MGT-7, Form 8, PAS-6, plus GST and TDS dates.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/roc-compliance-calendar.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "ROC compliance calendar 2026",
+                "item": "https://probay.in/roc-compliance-calendar.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/private-limited-vs-llp-vs-opc.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Private Limited vs LLP vs OPC: which should you choose?",
+            "description": "Liability, funding, audit, tax and cost of a Pvt Ltd, LLP and OPC compared, with a six-question decision guide for Indian founders.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/private-limited-vs-llp-vs-opc.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Pvt Ltd vs LLP vs OPC",
+                "item": "https://probay.in/private-limited-vs-llp-vs-opc.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/about.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "AboutPage",
+            "name": "Supporting you from incorporation to every year after",
+            "description": "Probay is a Delhi NCR team of Chartered Accountants and Company Secretaries handling company registration and ROC compliance. How we work, what we promise.",
+            "url": "https://probay.in/about.html",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "About Probay",
+                "item": "https://probay.in/about.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/contact.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "ContactPage",
+            "name": "Talk to a company expert",
+            "description": "Call or WhatsApp +91 84474 52345, or send your details for a free 15-minute consultation with a CA/CS expert. Mon–Sat, 9:30 AM to 6:00 PM.",
+            "url": "https://probay.in/contact.html",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Contact",
+                "item": "https://probay.in/contact.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/delhi-vs-noida-where-to-register-company.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Delhi vs Noida vs Ghaziabad: where should you register?",
+            "description": "ROC Delhi vs ROC Kanpur, Delhi vs UP stamp duty, GST, rents and incentives compared, and why shifting your registered office later is expensive.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/delhi-vs-noida-where-to-register-company.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Delhi vs Noida vs Ghaziabad",
+                "item": "https://probay.in/delhi-vs-noida-where-to-register-company.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/post-incorporation-compliances.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "After incorporation: the first 180 days",
+            "description": "Bank account, subscription money, first board meeting, auditor (ADT-1), share certificates and INC-20A: the deadlines after incorporation, explained.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/post-incorporation-compliances.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Post-incorporation compliances",
+                "item": "https://probay.in/post-incorporation-compliances.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/privacy-policy.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "name": "Privacy Policy",
+            "description": "How Probay collects, uses, stores and protects the personal information you share with us for company registration and compliance services.",
+            "url": "https://probay.in/privacy-policy.html",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Privacy Policy",
+                "item": "https://probay.in/privacy-policy.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/terms.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "name": "Terms of Service",
+            "description": "The terms on which Probay provides company registration, LLP registration, ROC compliance and related professional services.",
+            "url": "https://probay.in/terms.html",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Terms of Service",
+                "item": "https://probay.in/terms.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/refund-policy.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebPage",
+            "name": "Refund Policy",
+            "description": "Probay's refund policy: when fees are non-refundable, the limited cases where a refund may be considered, the 3-day request window and how refunds are processed.",
+            "url": "https://probay.in/refund-policy.html",
+            "isPartOf": {
+              "@type": "WebSite",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Refund Policy",
+                "item": "https://probay.in/refund-policy.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/private-limited-company-registration-in-noida.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Private Limited Company Registration in Noida",
+            "serviceType": "Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Noida",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "Register a Pvt Ltd company in Noida or Greater Noida: ROC Kanpur, UP stamp duty, sector address proof, 7–10 day timeline. From ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Noida",
+                "item": "https://probay.in/company-registration-in-noida.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Private Limited Company Registration in Noida",
+                "item": "https://probay.in/private-limited-company-registration-in-noida.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/private-limited-company-registration-in-ghaziabad.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Private Limited Company Registration in Ghaziabad",
+            "serviceType": "Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Ghaziabad",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "Register a Pvt Ltd company in Ghaziabad: ROC Kanpur, UP stamp duty, GDA/UPSIDA address proof, proprietorship transfer. From ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Ghaziabad",
+                "item": "https://probay.in/company-registration-in-ghaziabad.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Private Limited Company Registration in Ghaziabad",
+                "item": "https://probay.in/private-limited-company-registration-in-ghaziabad.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/private-limited-company-registration-in-delhi.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Private Limited Company Registration in Delhi",
+            "serviceType": "Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Delhi",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Delhi"
+              }
+            },
+            "description": "Register a Pvt Ltd company in Delhi: ROC Delhi, capital-linked Delhi stamp duty, DDA or rented address proof, 7–10 days. From ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Delhi",
+                "item": "https://probay.in/company-registration-in-delhi.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Private Limited Company Registration in Delhi",
+                "item": "https://probay.in/private-limited-company-registration-in-delhi.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/llp-registration-in-noida.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "LLP Registration in Noida",
+            "serviceType": "Limited Liability Partnership incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Noida",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "Register an LLP in Noida: UP stamp paper for the LLP Agreement, ROC Kanpur, Form 3 within 30 days. For professionals and service firms. From ₹1,499.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1499",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Noida",
+                "item": "https://probay.in/company-registration-in-noida.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "LLP Registration in Noida",
+                "item": "https://probay.in/llp-registration-in-noida.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/llp-registration-in-ghaziabad.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "LLP Registration in Ghaziabad",
+            "serviceType": "Limited Liability Partnership incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Ghaziabad",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "Register an LLP in Ghaziabad or convert your partnership firm: UP stamp duty, ROC Kanpur, Form 3 within 30 days. From ₹1,499 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1499",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Ghaziabad",
+                "item": "https://probay.in/company-registration-in-ghaziabad.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "LLP Registration in Ghaziabad",
+                "item": "https://probay.in/llp-registration-in-ghaziabad.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/llp-registration-in-delhi.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "LLP Registration in Delhi",
+            "serviceType": "Limited Liability Partnership incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Delhi",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Delhi"
+              }
+            },
+            "description": "Register an LLP in Delhi: Delhi stamp duty on the LLP Agreement, ROC Delhi, Form 3 within 30 days. For professional and service firms. From ₹1,499.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "1499",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Delhi",
+                "item": "https://probay.in/company-registration-in-delhi.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "LLP Registration in Delhi",
+                "item": "https://probay.in/llp-registration-in-delhi.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/one-person-company-registration-in-noida.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "One Person Company Registration in Noida",
+            "serviceType": "One Person Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Noida",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "Register a One Person Company in Noida: single owner, nominee consent, UP stamp duty, ROC Kanpur. For freelancers and online sellers. From ₹999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Noida",
+                "item": "https://probay.in/company-registration-in-noida.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "One Person Company Registration in Noida",
+                "item": "https://probay.in/one-person-company-registration-in-noida.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/one-person-company-registration-in-ghaziabad.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "One Person Company Registration in Ghaziabad",
+            "serviceType": "One Person Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Ghaziabad",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "Register a One Person Company in Ghaziabad: single owner, limited liability, nominee, UP stamp duty, GST and MSME support. From ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Ghaziabad",
+                "item": "https://probay.in/company-registration-in-ghaziabad.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "One Person Company Registration in Ghaziabad",
+                "item": "https://probay.in/one-person-company-registration-in-ghaziabad.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/one-person-company-registration-in-delhi.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "One Person Company Registration in Delhi",
+            "serviceType": "One Person Company incorporation",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Delhi",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Delhi"
+              }
+            },
+            "description": "Register a One Person Company in Delhi: single owner, nominee consent, Delhi stamp duty, ROC Delhi, 7–10 working days. From ₹999 + govt. fees.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Delhi",
+                "item": "https://probay.in/company-registration-in-delhi.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "One Person Company Registration in Delhi",
+                "item": "https://probay.in/one-person-company-registration-in-delhi.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-annual-filing-in-noida.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Annual Filing in Noida",
+            "serviceType": "ROC annual compliance for companies",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Noida",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "AOC-4, MGT-7/7A and annual ROC compliance for Noida companies, filed with ROC Kanpur on time. Backlog of earlier years cleared. From ₹4,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "4999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Noida",
+                "item": "https://probay.in/company-registration-in-noida.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Annual Filing in Noida",
+                "item": "https://probay.in/company-annual-filing-in-noida.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-annual-filing-in-ghaziabad.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Annual Filing in Ghaziabad",
+            "serviceType": "ROC annual compliance for companies",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Ghaziabad",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Uttar Pradesh"
+              }
+            },
+            "description": "AOC-4, MGT-7/7A, ADT-1 and DPT-3 for Ghaziabad companies, filed with ROC Kanpur before the due date. Backlog cleared, notices handled. From ₹4,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "4999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Ghaziabad",
+                "item": "https://probay.in/company-registration-in-ghaziabad.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Annual Filing in Ghaziabad",
+                "item": "https://probay.in/company-annual-filing-in-ghaziabad.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-annual-filing-in-delhi.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Service",
+            "name": "Company Annual Filing in Delhi",
+            "serviceType": "ROC annual compliance for companies",
+            "provider": {
+              "@type": "ProfessionalService",
+              "@id": "https://probay.in/#business",
+              "name": "Probay"
+            },
+            "areaServed": {
+              "@type": "City",
+              "name": "Delhi",
+              "containedInPlace": {
+                "@type": "State",
+                "name": "Delhi"
+              }
+            },
+            "description": "Annual ROC compliance for Delhi companies: AOC-4, MGT-7/7A, ADT-1, DPT-3, DIR-3 KYC filed with ROC Delhi. Notices handled. From ₹4,999.",
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "INR",
+              "price": "4999",
+              "description": "Professional fee. Government fees at actuals."
+            }
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Delhi",
+                "item": "https://probay.in/company-registration-in-delhi.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company Annual Filing in Delhi",
+                "item": "https://probay.in/company-annual-filing-in-delhi.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-registration-cost-in-india.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Company Registration Cost in India: the complete breakdown",
+            "description": "Every component of company registration cost in India: MCA fees, DSC, stamp duty in Delhi vs UP, PAN/TAN, professional fee, and yearly costs after.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/company-registration-cost-in-india.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Company registration cost",
+                "item": "https://probay.in/company-registration-cost-in-india.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/documents-required-for-company-registration.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Documents required for company registration: the complete checklist",
+            "description": "Complete checklist for Pvt Ltd, LLP and OPC registration: director KYC, registered office proof, NOC, foreign national documents and rejection reasons.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/documents-required-for-company-registration.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Documents checklist",
+                "item": "https://probay.in/documents-required-for-company-registration.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/company-registration-process-step-by-step.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "How to register a company in India: the SPICe+ process step by step",
+            "description": "How a company is registered in India: DSC, name reservation, MoA/AoA, SPICe+ Part B, AGILE-PRO-S, Certificate of Incorporation and the first 30 days.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/company-registration-process-step-by-step.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Registration process",
+                "item": "https://probay.in/company-registration-process-step-by-step.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/annual-compliance-checklist-private-limited-company.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Annual compliance checklist for a Private Limited Company",
+            "description": "Board meetings, AGM, audit, AOC-4, MGT-7/7A, ADT-1, DPT-3, DIR-3 KYC, MSME-1, PAS-6 and tax: every yearly obligation of a Pvt Ltd with due dates.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/annual-compliance-checklist-private-limited-company.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Annual compliance checklist",
+                "item": "https://probay.in/annual-compliance-checklist-private-limited-company.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/rule-9b-dematerialisation-private-companies.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Rule 9B: mandatory demat of shares for private companies",
+            "description": "Who must comply with Rule 9B, the 30 June 2025 deadline, ISIN, RTA, PAS-6, penalties and step-by-step compliance for Indian private companies.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/rule-9b-dematerialisation-private-companies.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Rule 9B demat explained",
+                "item": "https://probay.in/rule-9b-dematerialisation-private-companies.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/how-to-close-a-company-in-india.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "How to close a company in India: strike off, dormant or wind up?",
+            "description": "Ways to close a company: strike off under Section 248 (STK-2), dormant status, voluntary liquidation. Eligibility, cost, timeline and liability.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/how-to-close-a-company-in-india.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "How to close a company",
+                "item": "https://probay.in/how-to-close-a-company-in-india.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/registered-office-address-rules.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Registered office address: what is allowed and what is not",
+            "description": "Can a home, rented flat, co-working desk or virtual office be your registered office? Section 12 rules, documents, and how to change the address.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/registered-office-address-rules.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Registered office rules",
+                "item": "https://probay.in/registered-office-address-rules.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "https://probay.in/director-disqualification-section-164.html": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Director disqualification under Section 164(2)",
+            "description": "How three years of non-filing disqualifies a director from every company for five years, what it means, how to avoid it and the remedies available.",
+            "image": "https://probay.in/assets/img/og-image.png",
+            "datePublished": "2026-09-22",
+            "dateModified": "2026-09-22",
+            "author": {
+              "@type": "Organization",
+              "name": "Probay",
+              "url": "https://probay.in/"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Probay",
+              "logo": {
+                "@type": "ImageObject",
+                "url": "https://probay.in/assets/img/logo.png"
+              }
+            },
+            "mainEntityOfPage": "https://probay.in/director-disqualification-section-164.html",
+            "inLanguage": "en-IN"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://probay.in/"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Guides",
+                "item": "https://probay.in/guides.html"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Director disqualification",
+                "item": "https://probay.in/director-disqualification-section-164.html"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

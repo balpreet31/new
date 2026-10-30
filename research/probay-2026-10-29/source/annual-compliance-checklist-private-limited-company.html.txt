@@ -1,0 +1,147 @@
+Home
+Guides
+Annual compliance checklist
+Compliance
+Annual compliance checklist for a
+Private Limited Company
+A Private Limited Company has a fixed set of obligations every year, whether or not it does any business. Miss one and the late fee runs at ₹100 a day. This checklist covers all of them, in the order they fall due.
+Probay Editorial Team
+Updated
+22 Sep 2026
+5 min read
+On this page
+Meetings
+Audit & accounts
+ROC filings
+Tax filings
+Registers & disclosures
+Penalties
+FAQs
+Need it done for you?
+We run this whole checklist for you from ₹4,999 a year.
+See annual filing plans
+1. Meetings
+Board meetings and the AGM
+Board meetings:
+at least four in a year with not more than 120 days between two meetings. A
+small company
+(paid-up capital ≤ ₹4 crore and turnover ≤ ₹40 crore) and an OPC need only two, one in each half of the year, at least 90 days apart.
+Annual General Meeting:
+within six months of the end of the financial year — by
+30 September
+— and not more than 15 months after the previous AGM. The first AGM is due within nine months of the first financial year end.
+Notice, agenda, minutes:
+21 clear days' notice for the AGM (7 days for board meetings), and minutes signed within 30 days and kept in the minutes book.
+Where:
+the AGM is held at the registered office or elsewhere in the same city, or by video conferencing where the MCA permits it for the year.
+2. Accounts
+Books, audit and financial statements
+Maintain books of account
+on accrual basis, at the registered office (or elsewhere with notice to the ROC), for at least eight years.
+Statutory audit
+by an independent Chartered Accountant is mandatory for every company, whatever its size or activity.
+Financial statements
+— balance sheet, profit and loss, cash flow (not required for small companies and OPCs), notes — approved by the board and signed before the AGM.
+Board's report
+attached to the financial statements; small companies may use the abridged format.
+Auditor appointment:
+the first auditor within 30 days of incorporation by the board; thereafter at the AGM for a term of up to five years, intimated in
+ADT-1
+within 15 days.
+3. ROC filings
+Annual and periodic ROC filings
+Form
+What it is
+Due date
+Late fee
+AOC-4 / AOC-4 CFS / AOC-4 XBRL
+Financial statements
+Within 30 days of AGM
+₹100 per day
+MGT-7 (or MGT-7A for small companies & OPCs)
+Annual return
+Within 60 days of AGM
+₹100 per day
+ADT-1
+Auditor appointment
+Within 15 days of AGM
+Slab-based additional fee
+DPT-3
+Return of deposits / outstanding loans
+30 June
+Slab-based additional fee
+DIR-3 KYC / KYC-WEB
+Director KYC
+As notified (usually 30 September)
+₹5,000 per DIN if deactivated
+MSME-1
+Dues to MSME suppliers beyond 45 days
+30 April and 31 October
+Slab-based additional fee
+PAS-6
+Reconciliation of share capital (companies under Rule 9A / 9B)
+Within 60 days of each half-year end
+Slab-based additional fee
+MGT-14
+Certain board / special resolutions
+Within 30 days of the resolution
+Slab-based additional fee
+BEN-2
+Significant beneficial ownership
+Within 30 days of receiving BEN-1
+Slab-based additional fee
+Not every form applies to every company: DPT-3 is needed only if there are loans or deposits outstanding; MSME-1 only if MSME dues are overdue; PAS-6 only for companies covered by the demat rules. A proper compliance health check tells you which apply.
+4. Tax
+Income tax and other returns
+Income tax return (ITR-6)
+— by 31 October (companies are subject to audit). Tax audit report in Form 3CA/3CD by 30 September where turnover exceeds the threshold.
+TDS returns
+quarterly (Form 24Q / 26Q) if the company deducts tax on salaries, rent, professional fees or contractor payments.
+GST returns
+monthly or quarterly, plus the annual return (GSTR-9) where applicable.
+Advance tax
+in four instalments if the tax liability exceeds ₹10,000.
+5. Records
+Registers, disclosures and stationery
+Statutory registers
+— members (MGT-1), directors and KMP, charges, share transfers, loans and investments, related-party contracts — kept at the registered office and updated as events occur.
+Director disclosures
+— MBP-1 (interest in other entities) at the first board meeting of each financial year, and DIR-8 (non-disqualification) annually.
+Name board and stationery
+— the company name and registered office address outside every office, and name, CIN, registered office, phone and email on letterheads, invoices and notices.
+Share certificates
+issued within 60 days of allotment, with stamp duty paid.
+Consequences
+What non-compliance costs
+The additional fee of ₹100 per day per form for late AOC-4 and MGT-7 has no upper limit — a year's delay on both forms costs over ₹70,000. Beyond fees, the ROC can adjudicate penalties on the company and every officer in default. Three consecutive years of non-filing disqualify the directors under Section 164(2) for five years, and two years of non-filing allows the ROC to strike the company off under Section 248.
+If the company is not going to operate, closing it properly is cheaper than paying to keep it compliant — see our guide on
+how to close a company
+.
+FAQs
+Frequently asked questions
+Does a company with no transactions need to comply with all of this?
+Yes. Meetings, audit, AOC-4, MGT-7A and the income tax return are required even for a nil-activity company. Only the event-driven forms (DPT-3, MSME-1, PAS-6, MGT-14) may not apply.
+What is a small company?
+A private company with paid-up capital up to ₹4 crore and turnover up to ₹40 crore, which is not a holding or subsidiary company. Small companies get relaxations: two board meetings a year, MGT-7A, no cash flow statement and lower penalties.
+Can the AGM be held after 30 September?
+Only with an extension from the ROC applied for before the due date, for special reasons, up to three months. Otherwise holding the AGM late is itself a default.
+Who signs the annual return?
+MGT-7 is signed by a director and the company secretary, or by a practising CS if the company has none. A small company's MGT-7A can be signed by a director alone. Companies above certain thresholds also need the return certified in MGT-8.
+How much does annual compliance cost for a small company?
+Professional fees for the ROC work start at ₹4,999; a complete package including DPT-3, KYC, minutes and registers is ₹9,999. Add the statutory audit fee and the income tax return. See our
+annual filing plans
+.
+Company Annual Filing
+AOC-4, MGT-7/7A from ₹4,999
+Event Based Compliances
+From ₹1,499 per event
+ROC compliance calendar
+Every due date for the year
+ISIN & Share Demat
+Rule 9A / 9B compliance
+Written by the Probay Editorial Team
+Our guides are prepared by the Chartered Accountants and Company Secretaries who handle incorporation and ROC filings for our clients every day. Content is checked against the Companies Act, 2013, the LLP Act, 2008 and current MCA rules, and updated when the law changes. It is general information, not legal advice for your specific situation.
+Want an expert to handle it?
+Talk to our CA/CS team — free consultation and a written, itemised quote.
+Get Free Consultation
++91 84474 52345

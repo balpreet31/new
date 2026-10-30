@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {estimate} from '../client/src/calculator.js';
+const pages=JSON.parse(fs.readFileSync(new URL('../client/src/data/pages.json',import.meta.url)));
+const home=JSON.parse(fs.readFileSync(new URL('../client/src/data/home.json',import.meta.url)));
+test('preserves all original pages, enquiry routes and FAQs',()=>{assert.equal(Object.keys(pages).length,45);assert.equal(Object.values(pages).reduce((n,p)=>n+p.faqCount,0),218);assert.equal(home.services.length,10);assert.equal(home.plans.length,3);for(const p of Object.values(pages)){assert.ok(p.heading);assert.ok(p.title);assert.ok(p.description);assert.equal(p.path,Object.keys(pages).find(k=>pages[k]===p))}});
+test('migrated editorial content contains no executable source or external form',()=>{for(const p of Object.values(pages)){assert.doesNotMatch(p.html,/<script|<iframe|\son\w+=|javascript:|<form/i)}});
+test('small-capital estimate matches published and live-verified quotes',()=>{assert.equal(estimate({entity:'pvt',state:'up',capital:100000,people:2,plan:'standard'}).total,6860);assert.equal(estimate({entity:'pvt',state:'delhi',capital:100000,people:2,plan:'standard'}).total,6210);assert.equal(estimate({entity:'llp',state:'delhi',capital:100000,people:2,plan:'standard'}).total,7190)});
+test('estimate applies state slabs, included signatures, GST and quote fallback',()=>{const base=estimate({entity:'pvt',state:'up',capital:500000,people:2,plan:'standard'});const high=estimate({entity:'pvt',state:'up',capital:1000000,people:3,plan:'standard'});assert.equal(high.total-base.total,1700);assert.equal(base.gst,720);assert.equal(estimate({capital:'more'}).manual,true);assert.equal(estimate({entity:'opc',state:'delhi',capital:100000,people:1,plan:'standard'}).total,5620);assert.throws(()=>estimate({entity:'other'}));assert.throws(()=>estimate({people:NaN}))});
+test('all migrated same-site page links resolve',()=>{for(const p of Object.values(pages)){for(const [,href] of p.html.matchAll(/href="(\/[^"#]*)[^"]*"/g)){if(!href||href==='/'||href==='/index.html')continue;assert.ok(pages[href],`${p.path} -> ${href}`)}}});

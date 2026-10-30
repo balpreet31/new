@@ -1,0 +1,166 @@
+Home
+Guides
+Pvt Ltd vs LLP vs OPC
+Choosing a structure
+Private Limited vs LLP vs OPC:
+which should you choose?
+The structure you register today decides how you raise money, how much compliance you carry every year and how exposed your personal assets are. This guide compares the three most common choices and gives you a straightforward way to decide.
+Probay Editorial Team
+Updated
+22 Sep 2026
+7 min read
+On this page
+Short answer
+Side-by-side comparison
+When Pvt Ltd wins
+When an LLP wins
+When an OPC wins
+Decision guide
+Common mistakes
+FAQs
+Need it done for you?
+We recommend the right structure on a free 15-minute call.
+Talk to an expert
+Short answer
+The short answer
+Choose a Private Limited Company
+if you will raise equity funding, give ESOPs, or build a business you may sell.
+Choose an LLP
+if you are two or more professionals or service providers who want limited liability with minimal compliance and no investors.
+Choose a One Person Company
+if you are a solo founder who wants a company rather than a proprietorship and has no plans for a co-founder in the near term.
+Everything below explains why — and covers the cases where the short answer is wrong.
+Comparison
+Side-by-side comparison
+Private Limited Company
+LLP
+One Person Company
+Governing law
+Companies Act, 2013
+LLP Act, 2008
+Companies Act, 2013
+Minimum people
+2 shareholders, 2 directors
+2 partners (2 designated)
+1 member + 1 nominee, 1 director
+Maximum owners
+200 shareholders
+No limit
+1 member
+Owner's liability
+Limited to unpaid share capital
+Limited to agreed contribution
+Limited to unpaid share capital
+Equity funding / ESOPs
+Yes — preferred by investors
+No
+No (convert to Pvt Ltd first)
+Statutory audit
+Mandatory, every year
+Only above ₹40 lakh turnover or ₹25 lakh contribution
+Mandatory, every year
+Board meetings / AGM
+4 board meetings + AGM (2 meetings for small companies)
+Not required
+No AGM; board meeting rules relaxed
+Annual ROC forms
+AOC-4, MGT-7 / MGT-7A
+Form 11, Form 8
+AOC-4, MGT-7A
+Income tax
+Corporate rate (22% + surcharge & cess under s.115BAA, or 15% for new manufacturing under s.115BAB)
+30% + surcharge & cess; no dividend tax on partners' share
+Corporate rate
+Transfer of ownership
+Share transfer (restricted by Articles)
+Change in partners via Form 4 + agreement
+Share transfer; nominee on death
+Professional fee to register
+From ₹999
+From ₹1,499
+From ₹999
+Typical timeline
+7–10 working days
+10–15 working days
+7–10 working days
+Private Limited
+When a Private Limited Company is the right choice
+A
+Private Limited Company
+is the default for anything that might one day take outside money. Angel investors, venture funds and even most incubators will only invest in a company, because equity, preference shares, convertible notes and ESOPs exist only in a company. It is also the structure that large customers, lenders and government tenders treat as most credible.
+The price of that credibility is compliance: a statutory audit every year regardless of size, at least two board meetings a year (four for non-small companies), an AGM, and the AOC-4 and MGT-7 filings. Budget roughly ₹15,000–30,000 a year for a small company's audit, accounts and ROC work.
+Choose it when:
+you plan to raise funding; you want to reward employees with equity; you expect to bring in co-founders over time; or your customers are corporates and government bodies.
+LLP
+When an LLP is the right choice
+An
+LLP
+gives you limited liability and a separate legal entity with the lightest compliance of the three. There are no board meetings or AGM, no audit until turnover crosses ₹40 lakh or contribution crosses ₹25 lakh, and only two annual ROC forms. Profit sharing, roles and capital are set freely in the LLP Agreement.
+Its limitation is capital. An LLP has partners, not shareholders, so it cannot issue shares to investors or ESOPs to staff. Converting an LLP into a company later is possible but is a project in itself. Tax is a flat 30% plus surcharge and cess on the LLP, but partners' share of profit is exempt in their hands, which for many small firms works out similar to or better than the company route once dividend tax is considered.
+Choose it when:
+you are a professional practice, agency, consultancy or family service business; you will not raise equity; and you value low running cost over investor-readiness.
+One Person Company
+When a One Person Company is the right choice
+A
+One Person Company
+exists for one reason: to let a single founder run a proper company without a second shareholder. You get limited liability, a corporate identity and continuity through a nominee, and the compliance is slightly lighter than a regular private company — no AGM, and no board meetings if there is only one director.
+It still requires a statutory audit and annual ROC filings, and it cannot take investors. Since 2021 there is no longer any compulsory conversion when turnover grows, and you can convert to a Private Limited Company voluntarily the day a co-founder or investor arrives.
+Choose it when:
+you are genuinely solo, you want a company rather than a proprietorship, and you would rather not add a token second shareholder.
+Decision guide
+Six questions that decide it
+Will you raise equity from investors in the next 3 years?
+Yes → Private Limited Company. Stop here.
+Are you alone, with no co-founder planned?
+Yes → OPC (or Pvt Ltd with a family member as second shareholder if investors are likely).
+Is this a professional practice or service firm with partners?
+Yes → LLP.
+Will turnover stay under ₹40 lakh for a few years?
+Yes → LLP saves the audit cost; a company does not.
+Do you want to give equity to employees?
+Yes → Private Limited Company.
+Do your customers or tenders require a "company"?
+Some PSU and corporate vendor registrations do — check the tender document; if yes, Private Limited Company.
+Still torn between LLP and Pvt Ltd? A useful rule: if you cannot name the investor you expect within two years, start with the LLP. Converting later costs money, but paying for a company's compliance for years you never needed it costs more.
+Avoid these
+Mistakes founders make when choosing
+Registering a Pvt Ltd because it "sounds bigger"
+and then paying ₹20,000+ a year in audit and filings for a business earning ₹5 lakh.
+Registering an LLP for a start-up
+that pitches investors six months later and has to convert.
+Adding a spouse as a 1% shareholder
+in a Pvt Ltd without understanding that they are then a member with rights — fine if intended, awkward if not.
+Choosing high authorised capital
+at incorporation, which increases stamp duty (especially in Delhi) for no benefit. Start small; increase when funds actually come in.
+Ignoring the state.
+Noida and Ghaziabad companies are under ROC Kanpur with UP stamp duty; Delhi companies are under ROC Delhi. Shifting later needs Regional Director approval. See our
+Delhi vs Noida guide
+.
+FAQs
+Frequently asked questions
+Which is cheapest to register — Pvt Ltd, LLP or OPC?
+Professional fees are similar (from ₹999 for Pvt Ltd and OPC, ₹1,499 for LLP). Government fees and stamp duty vary with capital or contribution and with the state. The bigger difference is the annual running cost: an LLP below the audit thresholds is the cheapest to maintain.
+Can an LLP be converted into a Private Limited Company?
+Yes, under the Companies Act, provided the LLP meets the conditions (including at least two members and up-to-date filings). It involves a fresh name approval, filing the conversion forms and re-registering for tax. It is easier to choose correctly at the start.
+Can a Private Limited Company have only one director?
+No — a private company needs at least two directors and two shareholders. If you are alone, register an OPC, or bring in a family member as the second director and shareholder.
+Is an LLP better for tax than a company?
+It depends on how much profit you withdraw. An LLP is taxed at 30% plus surcharge and cess, but partners' profit share is tax-free in their hands. A company pays a lower corporate rate (22% under section 115BAA) but dividends are then taxed again in the shareholder's hands. For owners who withdraw most profits, the LLP is often comparable or better; for businesses that reinvest, the company can be better.
+What about a partnership firm or proprietorship?
+Both are simpler and cheaper but offer no liability protection and limited credibility. They suit very small, low-risk businesses. See our
+partnership firm
+page for a comparison with LLP.
+Private Limited Company Registration
+From ₹999 + govt. fees
+LLP Registration
+From ₹1,499 + govt. fees
+One Person Company Registration
+From ₹999 + govt. fees
+Company Registration Cost Calculator
+Indicative cost for Delhi, Noida & Ghaziabad
+Written by the Probay Editorial Team
+Our guides are prepared by the Chartered Accountants and Company Secretaries who handle incorporation and ROC filings for our clients every day. Content is checked against the Companies Act, 2013, the LLP Act, 2008 and current MCA rules, and updated when the law changes. It is general information, not legal advice for your specific situation.
+Want an expert to handle it?
+Talk to our CA/CS team — free consultation and a written, itemised quote.
+Get Free Consultation
++91 84474 52345

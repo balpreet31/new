@@ -1,0 +1,123 @@
+Home
+Guides
+How to close a company
+Closure
+How to close a company in India:
+strike off, dormant or wind up?
+A company that has stopped operating does not stop costing money. Annual filings, audit and late fees continue until it is legally closed. This guide compares the three ways out and explains the strike-off route most small companies use.
+Probay Editorial Team
+Updated
+22 Sep 2026
+4 min read
+On this page
+The three options
+Strike-off eligibility
+Strike-off process
+Directors' liability after
+Closing an LLP
+FAQs
+Need it done for you?
+Free eligibility check and an all-in estimate for closure.
+Close my company
+Overview
+Three ways to deal with a company you no longer need
+Strike off (STK-2)
+Dormant status (MSC-1)
+Voluntary liquidation (IBC s.59)
+Result
+Company dissolved and removed from the register
+Company continues with minimal compliance
+Company dissolved after assets realised and creditors paid
+Best for
+No assets, no liabilities, no business
+Holding an asset or IP for future use
+Company with assets or liabilities to settle
+Government fee
+₹10,000
+₹5,000 (approx.) plus annual return
+Liquidator's fees; NCLT process
+Time
+3–6 months
+1–2 months
+12 months or more
+Complexity
+Low
+Low, but recurring
+High
+Section 248
+When a company can apply for strike off
+It
+has not commenced business within one year
+of incorporation;
+or
+it
+has not carried on any business for the two preceding financial years
+and has not applied for dormant status.
+It has
+nil assets and nil liabilities
+— all dues paid, bank account closed, no pending litigation.
+Shareholders consent
+by special resolution or written consent of holders of 75% of paid-up capital.
+Annual filings are up to date
+up to the end of the financial year in which business ceased. Overdue AOC-4 and MGT-7/7A must be filed first.
+It is
+not
+a listed company, a Section 8 company, or a company that in the last three months changed its name, shifted its office to another state, or disposed of property for value; and no inspection, investigation or prosecution is pending.
+Step by step
+The strike-off process
+Status and liability check
+Week 1
+Confirm eligibility, list pending filings and estimate additional fees. Decide between regularising and closing.
+Settle dues, close the bank account
+Week 1–3
+Pay creditors, distribute any balance, close the account and obtain the closure letter.
+File overdue returns
+As needed
+AOC-4 and MGT-7/7A up to the year business stopped.
+Resolutions and affidavits
+Week 2–4
+Board resolution, special resolution (filed in MGT-14), indemnity bond STK-3 and affidavit STK-4 from every director, and a CA-certified statement of accounts STK-8 not older than 30 days.
+File STK-2 with ₹10,000 fee
+Week 4
+The application goes to the Centre for Processing Accelerated Corporate Exit (C-PACE).
+Public notice STK-6
+30 days
+Published on the MCA website and in the Official Gazette; objections may be filed within 30 days.
+Dissolution STK-7
+3–6 months overall
+If no objection is sustained, the name is struck off and the company stands dissolved.
+Section 248(7)
+What survives the strike off
+Dissolution ends the company, not the liabilities of the people behind it. Section 248(7) provides that the liability of every director, manager, officer and member continues and may be enforced as if the company had not been dissolved. That is why each director signs an indemnity bond. Tax assessments can also be reopened, and a creditor can apply to the NCLT to restore the company within the periods allowed under Section 252.
+For a genuinely clean company — no dues, no disputes, no undisclosed assets — this is a formality. Where there are unresolved liabilities, strike off is the wrong route and liquidation should be considered.
+LLPs
+Closing an LLP
+An LLP that has not carried on business for a year or more can apply for strike off in
+Form 24
+, with consent of all partners, an affidavit and indemnity bond, and a statement of accounts showing nil assets and liabilities, certified by a Chartered Accountant. Overdue Form 8 and Form 11 up to the year the LLP ceased operating generally need to be filed first, and the LLP Agreement must be on record with the Registrar. The process is otherwise similar to a company strike off.
+FAQs
+Frequently asked questions
+How much does it cost to close a Private Limited Company?
+The STK-2 government fee is ₹10,000. Professional fees start at ₹4,999. Add notarisation, the CA-certified statement of accounts, and any additional MCA fees for overdue annual returns. We give one consolidated estimate after a free status check.
+Can I just stop filing and let the ROC strike the company off?
+You can, but it is a bad idea. The ROC's suo motu strike off comes with penalties, the directors are disqualified for five years under Section 164(2) after three years of non-filing, and the company's name can be restored by a creditor. A voluntary strike off is cleaner and protects the directors.
+Can a company with a bank balance be struck off?
+No. The statement of accounts must show nil assets and liabilities. Distribute or use the balance to settle dues, then close the account.
+How long does strike off take?
+Usually three to six months from filing STK-2, depending on C-PACE processing and whether any objection is received.
+Can a struck-off company be revived?
+Yes, by application to the NCLT under Section 252 — by an aggrieved person within three years of the ROC's order, or by the company, a member or a creditor within twenty years of the strike-off notice.
+Company Strike Off
+From ₹4,999 + govt. fee
+Company Annual Filing
+AOC-4, MGT-7/7A from ₹4,999
+Director disqualification explained
+Section 164(2) and how to avoid it
+Event Based Compliances
+From ₹1,499 per event
+Written by the Probay Editorial Team
+Our guides are prepared by the Chartered Accountants and Company Secretaries who handle incorporation and ROC filings for our clients every day. Content is checked against the Companies Act, 2013, the LLP Act, 2008 and current MCA rules, and updated when the law changes. It is general information, not legal advice for your specific situation.
+Want an expert to handle it?
+Talk to our CA/CS team — free consultation and a written, itemised quote.
+Get Free Consultation
++91 84474 52345

@@ -1,0 +1,99 @@
+Home
+Guides
+Post-incorporation compliances
+After incorporation
+After incorporation:
+the first 180 days
+The Certificate of Incorporation is the beginning, not the end. A handful of deadlines fall in the first six months, and missing them is the most common reason a brand-new company ends up with penalties before it has earned a rupee.
+Probay Editorial Team
+Updated
+22 Sep 2026
+4 min read
+On this page
+The deadlines
+INC-20A explained
+Name board & stationery
+Common mistakes
+FAQs
+Need it done for you?
+Our Standard and Premium plans include all of these.
+See plans
+Deadlines
+Post-incorporation timeline
+Open the current account
+Immediately
+Use the COI, MoA, AoA, PAN and board resolution. If you opted for a bank in AGILE-PRO-S, complete that bank's KYC; otherwise choose any bank.
+Deposit subscription money
+Before INC-20A
+Every subscriber pays for the shares they signed up for in the MoA — into the company's bank account, not in cash to a director.
+First board meeting
+Within 30 days
+Adopt the common seal (if any), note the COI, appoint the first auditor, authorise bank signatories, take directors' disclosures in MBP-1 and DIR-8, and approve the registered office details.
+Appoint the first auditor
+Within 30 days
+By the board, for a term until the first AGM. File ADT-1 (recommended, though strictly required only for AGM appointments).
+Issue share certificates
+Within 60 days
+To each subscriber, signed by two directors, with stamp duty paid under the state's stamp law.
+File INC-20A
+Within 180 days
+Declaration that subscription money has been received, with the bank statement as proof. Until it is filed the company cannot commence business or borrow.
+Register for GST, MSME and local licences
+As needed
+GST if turnover or activity requires it; Udyam registration for MSME benefits; Shops & Establishment, trade or factory licence depending on premises and activity.
+Set up books and registers
+From day one
+Accounting software, statutory registers (members, directors, charges, share transfers), minutes books and the name board at the registered office.
+The big one
+INC-20A: commencement of business
+Section 10A of the Companies Act requires every company with share capital, incorporated after 2 November 2018, to file a declaration within 180 days of incorporation confirming that every subscriber has paid the value of the shares agreed to be taken. It is filed in Form INC-20A, verified by a practising professional, with the bank statement showing the credits.
+Until INC-20A is filed the company cannot commence business or exercise borrowing powers. Not filing it attracts a penalty of ₹50,000 on the company and ₹1,000 per day on each officer in default (up to ₹1 lakh), and allows the ROC to strike the company off. It is also the form that founders most often forget, because nothing visibly stops working when the deadline passes.
+Subscription money must actually be received in the company's bank account before filing. If a subscriber has not paid, that must be fixed first — INC-20A cannot be filed on a promise.
+Section 12
+Name board, letterhead and disclosures
+Name board
+in a conspicuous position outside every office, in English and in the local language, showing the company name and registered office address.
+Letterheads, invoices, notices and official emails
+must show the name, CIN, registered office address, telephone, email and website (if any).
+Website
+, if any, must display the same details.
+Penalty
+for non-compliance: ₹1,000 per day on the company and every officer in default, up to ₹1 lakh.
+Avoid these
+Five mistakes new companies make
+Paying subscription money in cash to a director
+instead of into the company account — INC-20A then cannot be filed.
+Treating the founder's personal account as the company account
+for the first few months. Every rupee should flow through the company from day one.
+Forgetting the auditor
+until the year end. The first auditor must be appointed within 30 days by the board.
+Not issuing share certificates
+or paying stamp duty on them — a defect that surfaces in every due diligence.
+Assuming GST is automatic.
+It is not, unless you opted in through AGILE-PRO-S, and even then it must be activated.
+FAQs
+Frequently asked questions
+Can the company start invoicing before INC-20A is filed?
+No. Section 10A bars a company from commencing business or borrowing until the declaration is filed. Get the subscription money in and file INC-20A first — it can be done within days of opening the bank account.
+Is ADT-1 required for the first auditor?
+The Act requires the first auditor to be appointed by the board within 30 days; ADT-1 is mandatory for appointments made at the AGM. Filing ADT-1 for the first auditor is good practice and is what most professionals do.
+What if a subscriber cannot pay the subscription money?
+The shares must be paid for as subscribed. The practical options are for the subscriber to pay, or to transfer the shares after payment. Discuss with your consultant before the 180-day deadline.
+Do we need a company seal?
+No. The common seal is optional since 2015. Documents can be signed by two directors, or a director and the company secretary.
+When does the first financial year end?
+On 31 March following incorporation. A company incorporated on or after 1 January may end its first financial year on 31 March of the next year — giving a first year of up to 15 months.
+Private Limited Company Registration
+From ₹999 + govt. fees
+Company Annual Filing
+AOC-4, MGT-7/7A from ₹4,999
+Event Based Compliances
+From ₹1,499 per event
+Annual compliance checklist
+What every year looks like
+Written by the Probay Editorial Team
+Our guides are prepared by the Chartered Accountants and Company Secretaries who handle incorporation and ROC filings for our clients every day. Content is checked against the Companies Act, 2013, the LLP Act, 2008 and current MCA rules, and updated when the law changes. It is general information, not legal advice for your specific situation.
+Want an expert to handle it?
+Talk to our CA/CS team — free consultation and a written, itemised quote.
+Get Free Consultation
++91 84474 52345

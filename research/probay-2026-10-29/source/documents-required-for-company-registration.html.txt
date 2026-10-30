@@ -1,0 +1,114 @@
+Home
+Guides
+Documents checklist
+Checklist
+Documents required for company registration:
+the complete checklist
+Most incorporation delays are document problems: a utility bill older than two months, an NOC signed by the wrong person, an address that does not match. Here is exactly what the MCA needs — and how to get it right the first time.
+Probay Editorial Team
+Updated
+22 Sep 2026
+4 min read
+On this page
+Directors & shareholders
+Registered office
+Documents we prepare
+Why applications get rejected
+FAQs
+Need it done for you?
+Send us your documents on WhatsApp; we check them before filing.
+Start my registration
+Part 1
+Documents for each director and shareholder
+Every proposed director and every subscriber to the memorandum needs the following. Clear scans or phone photos are acceptable — the MCA does not require originals.
+Indian nationals
+PAN card — mandatory; the name must match exactly across all documents
+Aadhaar card
+One identity proof: Passport, Voter ID or Driving Licence
+One address proof not older than 2 months: bank statement, electricity, telephone or mobile bill
+Passport-size photograph
+Personal email ID and mobile number (used for OTP verification and DSC)
+Foreign nationals & NRIs
+Passport — mandatory, notarised and apostilled (or consularised) in the country of residence
+Address proof not older than 2 months, similarly attested
+Photograph
+If resident in India: Indian visa / OCI card and Indian address proof
+Business visa and stay proof where applicable
+The two-month rule
+is the most common failure. The bank statement or utility bill used as address proof must be dated within the two months before filing. Download a fresh statement the week you file.
+Part 2
+Documents for the registered office
+The registered office is the address where the company receives official communication. It can be residential or commercial, owned or rented, and it can be a co-working space.
+Always required
+Latest utility bill for the premises: electricity, gas, telephone or mobile — not older than 2 months, in the owner's name
+No Objection Certificate (NOC) from the owner permitting use as registered office
+Depending on ownership
+Rented:
+rent or lease agreement between the owner and a proposed director or the proposed company
+Owned by a director or relative:
+sale deed, allotment letter or property tax receipt
+Co-working / virtual office:
+licence agreement, NOC and the operator's utility bill
+Industrial plot (UPSIDA, Noida Authority, DSIIDC):
+lease deed or allotment letter
+Where the electricity connection is in the name of a family member rather than the director, the family member gives the NOC and their bill is used. Where the owner is deceased, succession documents or an alternative proof (such as a mobile bill in the current occupant's name plus a rent agreement) may be needed — tell your consultant early.
+Part 3
+Documents your consultant prepares for signature
+Memorandum of Association (e-MoA, INC-33)
+— the company's objects and capital.
+Articles of Association (e-AoA, INC-34)
+— the internal rules, including share transfer restrictions and board powers.
+DIR-2
+— consent of each person to act as director.
+INC-9
+— declaration by subscribers and first directors that they are not convicted of any offence relating to company formation or guilty of fraud.
+Declaration by a professional
+(CA, CS or CMA in practice) certifying compliance with the Act.
+Board resolution
+where a company or LLP is a subscriber.
+INC-3
+— nominee consent, for a One Person Company.
+LLP Agreement
+— for an LLP, executed on stamp paper after incorporation and filed in Form 3.
+Learn from others
+The seven most common reasons for resubmission
+Address mismatch
+— the utility bill says "Sector 62, Noida, Gautam Budh Nagar" and the form says "Noida, Delhi NCR". Every document must carry the same address, PIN code and district.
+Address proof older than two months.
+NOC not from the owner
+named on the utility bill or sale deed.
+Name mismatch
+between PAN, Aadhaar and the form — a missing middle name or initial is enough.
+Illegible scans
+or documents with cut-off edges.
+Objects clause too vague or too wide
+— the MoA must describe the main business clearly.
+Proposed name conflicts
+with an existing company, LLP or trademark, or includes restricted words without approval.
+A resubmission adds one to two weeks. We check every document against this list before we file.
+FAQs
+Frequently asked questions
+Do I need to submit original documents anywhere?
+No. Incorporation is fully online. Scanned copies are uploaded with the SPICe+ form, and the subscribers and directors sign digitally using their DSC.
+Can I use my Aadhaar as address proof?
+Aadhaar serves as identity proof. For the address proof of directors the MCA asks for a recent bank statement or utility bill (not older than two months). For the registered office, a utility bill for the premises is required.
+Is a rent agreement mandatory if the office is at my parents' house?
+No rent agreement is needed if there is no rent. Your parent, as the owner, gives the NOC, and their utility bill and ownership proof are used.
+Can a mobile phone bill be used as the office utility bill?
+Yes — the MCA accepts electricity, gas, telephone or mobile bills as proof of the registered office, provided the bill shows the address and is not older than two months.
+What documents does a foreign director need?
+Passport and address proof, notarised and apostilled (for Hague Convention countries) or consularised in the country of residence, plus a photograph. If the person is in India on a business visa, the visa and Indian address proof are also needed.
+Private Limited Company Registration
+From ₹999 + govt. fees
+LLP Registration
+From ₹1,499 + govt. fees
+One Person Company Registration
+From ₹999 + govt. fees
+Registered office address rules
+Home, rented, co-working and virtual office
+Written by the Probay Editorial Team
+Our guides are prepared by the Chartered Accountants and Company Secretaries who handle incorporation and ROC filings for our clients every day. Content is checked against the Companies Act, 2013, the LLP Act, 2008 and current MCA rules, and updated when the law changes. It is general information, not legal advice for your specific situation.
+Want an expert to handle it?
+Talk to our CA/CS team — free consultation and a written, itemised quote.
+Get Free Consultation
++91 84474 52345

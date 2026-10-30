@@ -1,0 +1,93 @@
+Home
+Guides
+Director disqualification
+Directors
+Director disqualification under
+Section 164(2)
+A director of a company that has not filed its annual returns for three years is disqualified from every company for five years. Thousands of directors in Delhi NCR discovered this the hard way. Here is how it happens, what it does to you and how to avoid or fix it.
+Probay Editorial Team
+Updated
+22 Sep 2026
+4 min read
+On this page
+The rule
+Consequences
+How to avoid it
+If you are already disqualified
+FAQs
+Need it done for you?
+Get your companies' filing status checked in a day.
+Check my status
+Section 164(2)
+What triggers disqualification
+Section 164(2) of the Companies Act, 2013 disqualifies a person from being appointed or reappointed as a director of
+any
+company if a company in which they are a director:
+has
+not filed financial statements or annual returns for any continuous period of three financial years
+; or
+has failed to repay deposits or interest, redeem debentures or pay declared dividends, and the failure continues for one year or more.
+The disqualification lasts
+five years
+from the date the default is complete. It attaches to the person, not the company — so a director of one neglected shell company is barred from all their other, perfectly compliant companies too.
+Section 164(1) separately disqualifies persons who are of unsound mind, undischarged insolvents, convicted of certain offences, or have not obtained a DIN, among other grounds.
+What it does
+What disqualification means in practice
+Vacation of office
+in all companies other than the defaulting one (Section 167), from the date of disqualification.
+DIN deactivated
+by the MCA, so you cannot sign any e-form for any company.
+Cannot be appointed
+as a director anywhere for five years.
+Bank and investor due diligence
+flags the disqualification against your name on the MCA portal.
+Continuing to act
+as a director while disqualified is itself an offence punishable with fine and imprisonment.
+Prevention
+How to make sure it never happens to you
+File every year, even for nil companies.
+The default is counted on filing, not on business activity.
+Resign properly from companies you have left.
+Send a written resignation, get the company to file DIR-12, and file your own DIR-11. An unfiled resignation leaves you on the hook.
+Close companies you do not need
+through voluntary strike off before the third year of default.
+Keep DIR-3 KYC current
+every year so that your DIN stays active and you receive MCA communication.
+Check the MCA portal once a year
+for every company against your DIN — "View Signatory Details" shows what you are still a director of.
+Remedies
+What to do if you are already disqualified
+There is no application to "undo" a Section 164(2) disqualification once it has attached; it runs for five years. The remedies that exist are:
+Writ petition
+in the High Court challenging the disqualification, particularly where the default period is disputed or the disqualification was applied retrospectively. Several High Courts have granted relief in such cases.
+Restoring the company and filing the returns
+— if the company was struck off, apply to the NCLT under Section 252 for restoration, then file the pending returns. This regularises the company but does not by itself lift the personal disqualification.
+Condonation or amnesty schemes
+— the MCA has periodically run schemes (such as the Condonation of Delay Scheme, 2018 and the Companies Fresh Start Scheme, 2020) allowing defaulting companies to file with reduced fees and reactivating DINs. Watch for any new scheme.
+Where the company still exists and the third year is not yet complete, the answer is simple: file the pending returns now. Additional fees are far cheaper than five years without a directorship.
+FAQs
+Frequently asked questions
+I was a director of a company that stopped operating years ago. Am I disqualified?
+If that company did not file its financial statements and annual returns for three consecutive financial years while you were a director, yes — for five years from the end of the third year. Check the company's filing history and your DIN status on the MCA portal, or ask us to check.
+Does the disqualification apply to LLP designated partners?
+Section 164 applies to company directors. LLP defaults attract penalties under the LLP Act, and the DIN/DPIN can be affected, but the five-year Section 164(2) bar arises from company defaults.
+Can I resign from a defaulting company to avoid disqualification?
+Resigning before the three-year default is complete protects you, provided the resignation is properly recorded and DIR-12 or DIR-11 is filed. Resigning after the default is complete does not undo the disqualification.
+My DIN shows 'deactivated due to non-filing of DIR-3 KYC'. Is that the same thing?
+No. KYC deactivation is fixed by filing DIR-3 KYC with a ₹5,000 fee. Deactivation on account of Section 164(2) disqualification cannot be fixed by KYC.
+How do I check whether I am disqualified?
+Search your DIN on the MCA portal; the director master data shows the DIN status and any disqualification. The MCA also publishes lists of disqualified directors.
+Company Annual Filing
+AOC-4, MGT-7/7A from ₹4,999
+Company Strike Off
+From ₹4,999 + govt. fee
+How to close a company
+Strike off vs dormant vs winding up
+Event Based Compliances
+From ₹1,499 per event
+Written by the Probay Editorial Team
+Our guides are prepared by the Chartered Accountants and Company Secretaries who handle incorporation and ROC filings for our clients every day. Content is checked against the Companies Act, 2013, the LLP Act, 2008 and current MCA rules, and updated when the law changes. It is general information, not legal advice for your specific situation.
+Want an expert to handle it?
+Talk to our CA/CS team — free consultation and a written, itemised quote.
+Get Free Consultation
++91 84474 52345

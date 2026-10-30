@@ -1,0 +1,137 @@
+[
+  {
+    "name": "hero-v2",
+    "source": "exec-9d9c77ca-425b-4cf4-8459-b68de59c33b6.png",
+    "output": "/images/hero-v2.webp"
+  },
+  {
+    "name": "advisory-v2",
+    "source": "exec-9c1e5bc2-093e-4259-9152-7f03cd0d9fb8.png",
+    "output": "/images/advisory-v2.webp"
+  },
+  {
+    "name": "service-private",
+    "source": "exec-6cd317df-e1f6-47c5-b775-696568fc5603.png",
+    "output": "/images/service-private.webp"
+  },
+  {
+    "name": "service-llp",
+    "source": "exec-b6cb8123-6418-49e6-89be-cf14b620d616.png",
+    "output": "/images/service-llp.webp"
+  },
+  {
+    "name": "service-opc",
+    "source": "exec-c6b19736-4a43-4233-8727-1a73ad52f461.png",
+    "output": "/images/service-opc.webp"
+  },
+  {
+    "name": "service-public",
+    "source": "exec-39bebcce-e95e-42ee-8ea5-f6b4dcbaddd2.png",
+    "output": "/images/service-public.webp"
+  },
+  {
+    "name": "service-partnership",
+    "source": "exec-a9bdfe3e-50b0-48f8-aec4-a7e91b722898.png",
+    "output": "/images/service-partnership.webp"
+  },
+  {
+    "name": "service-annual",
+    "source": "exec-16a145ef-f151-4b05-8f6e-a1cc2eee4feb.png",
+    "output": "/images/service-annual.webp"
+  },
+  {
+    "name": "service-llpannual",
+    "source": "exec-32cef9a3-700b-45be-9b5a-7f758c6b1306.png",
+    "output": "/images/service-llpannual.webp"
+  },
+  {
+    "name": "service-isin",
+    "source": "exec-f0b1e3f9-295f-4cb7-8da3-1756c48b6eb0.png",
+    "output": "/images/service-isin.webp"
+  },
+  {
+    "name": "service-strikeoff",
+    "source": "exec-23e447a2-5357-4673-8698-8d8aea9ca827.png",
+    "output": "/images/service-strikeoff.webp"
+  },
+  {
+    "name": "service-events",
+    "source": "exec-521ee173-8fb3-4059-b807-9ef32aad081a.png",
+    "output": "/images/service-events.webp"
+  },
+  {
+    "name": "city-noida",
+    "source": "exec-1dd9aae8-91ef-4c0c-ba3c-3d3f3d1d0ab2.png",
+    "output": "/images/city-noida.webp"
+  },
+  {
+    "name": "city-ghaziabad",
+    "source": "exec-9fabddb7-a05b-4384-8d2d-4892174df089.png",
+    "output": "/images/city-ghaziabad.webp"
+  },
+  {
+    "name": "city-delhi",
+    "source": "exec-216c6365-7408-4670-86c4-c42366dba2de.png",
+    "output": "/images/city-delhi.webp"
+  },
+  {
+    "name": "guide-structure",
+    "source": "exec-a6ade440-526d-4da3-b0c2-215e0af83680.png",
+    "output": "/images/guide-structure.webp"
+  },
+  {
+    "name": "guide-cost",
+    "source": "exec-483cde44-0be3-41f4-a868-1debd4891d8a.png",
+    "output": "/images/guide-cost.webp"
+  },
+  {
+    "name": "guide-documents",
+    "source": "exec-8bea6152-d616-4ed8-a899-0ebf37702579.png",
+    "output": "/images/guide-documents.webp"
+  },
+  {
+    "name": "guide-process",
+    "source": "exec-b1692ec9-fb94-4832-90e6-b2c1bce6e091.png",
+    "output": "/images/guide-process.webp"
+  },
+  {
+    "name": "guide-office",
+    "source": "exec-0c4531fa-950e-46ac-ad9a-94676a5fce16.png",
+    "output": "/images/guide-office.webp"
+  },
+  {
+    "name": "guide-geography",
+    "source": "exec-00770eed-5d9a-4552-aa14-1f4c06903e9b.png",
+    "output": "/images/guide-geography.webp"
+  },
+  {
+    "name": "guide-firstdays",
+    "source": "exec-96187c9e-a841-4f55-ad99-cd8b72507cb6.png",
+    "output": "/images/guide-firstdays.webp"
+  },
+  {
+    "name": "guide-compliance",
+    "source": "exec-cb342737-ae52-4a42-a701-b40a68e1a6ae.png",
+    "output": "/images/guide-compliance.webp"
+  },
+  {
+    "name": "guide-calendar",
+    "source": "exec-fe8aabfd-0854-4131-9aeb-fa40283baddc.png",
+    "output": "/images/guide-calendar.webp"
+  },
+  {
+    "name": "guide-directors",
+    "source": "exec-8eb0536a-c78e-4cdd-abfb-1752157767cd.png",
+    "output": "/images/guide-directors.webp"
+  },
+  {
+    "name": "guide-demat",
+    "source": "exec-030fca0d-7520-4e24-93c1-744143927a64.png",
+    "output": "/images/guide-demat.webp"
+  },
+  {
+    "name": "guide-closure",
+    "source": "exec-f41cb070-7ed2-42f9-a07a-6f368cbfedfa.png",
+    "output": "/images/guide-closure.webp"
+  }
+]

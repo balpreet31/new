@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build-ssr/
+.env
+.env.*
+!.env.example
+server/.env
+.runtime/
+.data/
+*.log
+qa/
